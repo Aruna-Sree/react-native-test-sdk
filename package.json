@@ -6,7 +6,7 @@
   },
   "homepage": "https://github.com/Aruna-Sree/react-native-test-sdk",
   "name": "react-native-test-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test SDK for react native",
   "main": "index.js",
   "scripts": {
